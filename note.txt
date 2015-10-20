@@ -1,0 +1,32 @@
+- never use gradient boosting from sklearn
+- set n_devices =-1 for RF
+- use numpy and pandas
+- keras & lasagne for deep learning, caffe for image - always gpu (theano)
+- profile
+- be careful with copy - deepcopy
+- dtype is important
+- use pip
+- save the list of packages / version control / do not update all the time
+- for text always python
+- use map, zip and lambda
+- use numpy memmap arrays for large files
+- do not unzip just read from zip file
+- matplotlib is famous, seaborn and bokeh (especially for interactive) is worth to check
+- use [my_func(x,5)*3 for x in range(10)]
+- parallelize
+- PyPy, Cython
+- sklearn pipeline
+- matlab-like (c-like) structs- use dicts
+- rPython, RPy2
+- worst thing about r is that it was developed by statisticians
+- terrible error reporting in R
+- syntax: function names do.this, doThis, do_this
+- 1) it doesn’t warn you that what you asked for doesn’t work with either of its ways, 
+2) it produces a wrong result instead of failing, 
+3) it gives only a warning and 
+4) the warning is completely incomprehensible.
+- return multiple values
+
+- examples: parse website, gmail, wikipedia
+
+https://www.stat.washington.edu/~hoytak/blog/whypython.html
