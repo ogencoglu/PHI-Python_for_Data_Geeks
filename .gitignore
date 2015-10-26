@@ -43,3 +43,11 @@ Temporary Items
 .apdisk
 
 note.txt
+*.pyc
+*.log
+*.aux
+*.out
+*.snm
+*.toc
+*.gz
+*.nav
